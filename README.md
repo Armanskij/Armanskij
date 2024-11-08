@@ -3,11 +3,13 @@
 Bem-vindo(a) ao meu perfil, estou passando por uma transição de carreira, vindo da área administrativo busco ingressar na  análise de dados. Quero utilizar o GitHub para registrar meu avanço nos estudos, conhecer  projetos e aprender novas tecnologias.
 ## Sobre Mim
 
-📰 Atualmente, estou realizando um curso de Analista de Dados pela Escola Britânica de Artes Criativas e Tecnologia (EBAC). Estou no início do curso, focando na consolidação das principais ferramentas da área. Já estou explorando ideias de projetos para compor meu portfólio, visando aplicar o conhecimento adquirido.
+📰 Recentemente concluí um curso de Analista de Dados pela Escola Britânica de Artes Criativas e Tecnologia (EBAC). Estou no ínicio da carreira, e estou focando na consolidação das principais ferramentas da área. Já estou explorando ideias de projetos para compor meu portfólio, visando aplicar o conhecimento adquirido.
 
-📚 Sou graduado em Administração pela Universidade de Mogi das Cruzes (UMC) e sempre tive interesse na área de dados, o que me levou a realizar cursos extracurriculares.
+📚 Sou graduado em Administração pela Universidade de Mogi das Cruzes (UMC) e sempre tive interesse na área de dados, o que me levou a realizar cursos extracurriculares como Excel e Power BI.
 
-🪛 Tenho a ambição de ingressar plenamente na área de dados. Assim que concluir meu curso, planejo adquirir experiência por meio de trabalhos voluntários, visando contribuir de forma prática para meu desenvolvimento profissional.
+🪛 Tenho a ambição de ingressar plenamente na área de dados. Com o curso concluído estou buscando oportunidades na área, e para isso entrei para trabalhar em um voluntáriado na instituição A Corrente do Bem, onde junto com o time de Tecnologia e Dados vamos atunar no apoio às ações da ONG.
+
+✈️ Como próximo passo na área estou considerando iniciar um pós graduação em Analise de Dados, porém gostaria muito de já entrar na área para ter experiências reais, caso tenho alguma indicicações de quais os próximos passos tomar ficarei muito feliz que compartilhe comigo.
 
 
 
