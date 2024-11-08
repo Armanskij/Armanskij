@@ -9,7 +9,7 @@ Bem-vindo(a) ao meu perfil, estou passando por uma transição de carreira, vind
 
 🪛 Tenho a ambição de ingressar plenamente na área de dados. Com o curso concluído estou buscando oportunidades na área, e para isso entrei para trabalhar em um voluntáriado na instituição A Corrente do Bem, onde junto com o time de Tecnologia e Dados vamos atunar no apoio às ações da ONG.
 
-✈️ Como próximo passo na área estou considerando iniciar um pós graduação em Analise de Dados, porém gostaria muito de já entrar na área para ter experiências reais, caso tenho alguma indicicações de quais os próximos passos tomar ficarei muito feliz que compartilhe comigo.
+✈ Como próximo passo na área estou considerando iniciar um pós graduação em Analise de Dados, porém gostaria muito de já entrar na área para ter experiências reais, caso tenho alguma indicicações de quais os próximos passos tomar ficarei muito feliz que compartilhe comigo.
 
 
 
