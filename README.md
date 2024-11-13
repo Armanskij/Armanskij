@@ -1,6 +1,6 @@
 # Olá, me chamo Douglas Rizzi! 
 
-Bem-vindo(a) ao meu perfil, estou passando por uma transição de carreira, vindo da área administrativo busco ingressar na  análise de dados. Quero utilizar o GitHub para registrar meu avanço nos estudos, conhecer  projetos e aprender novas tecnologias.
+Bem-vindo(a) ao meu perfil, estou passando por uma transição de carreira, vindo da área administrativo busco ingressar na  análise de dados. Quero utilizar o GitHub para registrar meu avanço nos estudos, conhecer  projetos e aprender novas tecnologias e ferramentas.
 ## Sobre Mim
 
 📰 Recentemente concluí um curso de Analista de Dados pela Escola Britânica de Artes Criativas e Tecnologia (EBAC). Estou no ínicio da carreira, e estou focando na consolidação das principais ferramentas da área. Já estou explorando ideias de projetos para compor meu portfólio, visando aplicar o conhecimento adquirido.
