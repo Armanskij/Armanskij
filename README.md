@@ -7,7 +7,7 @@ Bem-vindo(a) ao meu perfil, estou passando por uma transição de carreira, vind
 
 📚 Sou graduado em Administração pela Universidade de Mogi das Cruzes (UMC) e sempre tive interesse na área de dados, o que me levou a realizar cursos extracurriculares como Excel e Power BI.
 
-🪛 Tenho a ambição de ingressar plenamente na área de dados. Com o curso concluído estou buscando oportunidades na área, e para isso entrei para trabalhar em um voluntáriado na instituição A Corrente do Bem, onde junto com o time de Tecnologia e Dados vamos atunar no apoio às ações da ONG.
+🪛 Tenho a ambição de ingressar plenamente na área de dados. Com o curso concluído estou buscando oportunidades na área, e para isso entrei para trabalhar em um voluntáriado na instituição A Corrente do Bem, onde junto com o time de Tecnologia e Dados vamos atuar no apoio às ações da ONG como desenvolvimento de um app para os voluntários e do site da instituição.
 
 ✈ Como próximo passo na área estou considerando iniciar um pós graduação em Analise de Dados, porém gostaria muito de já entrar na área para ter experiências reais, caso tenho alguma indicicações de quais os próximos passos tomar ficarei muito feliz que compartilhe comigo.
 
